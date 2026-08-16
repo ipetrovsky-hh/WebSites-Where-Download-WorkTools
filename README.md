@@ -8,5 +8,6 @@
 4) Docker
 4.1) https://www.docker.com/
 5) Postman
-5.1) https://www.postman.com/  
-
+5.1) https://www.postman.com/
+6) MS SQL Express Edition
+6.1) https://www.microsoft.com/en-us/download/details.aspx?id=104781
