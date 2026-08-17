@@ -14,5 +14,5 @@
 7) SQL Server Management Studio
 7.1) https://aka.ms/ssms/22/release/vs_SSMS.exe
 7.2) https://learn.microsoft.com/en-us/ssms/install/install
-8) фреймворк для создание cshtml страниц Bootstrap
+8) фреймворк для создания cshtml страниц Bootstrap
 8.1) https://getbootstrap.com/
