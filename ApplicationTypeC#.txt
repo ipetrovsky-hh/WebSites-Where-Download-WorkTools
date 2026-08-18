@@ -1,0 +1,9 @@
+Типы десктопных приложений на C#
+1) RAZOR PAGES C#
+2) WIN FORMS
+3) BLAZOR PAGES C#
+4) ASP.NET MVC C#
+5) WPF PAGES C#
+6) ASP.NET Web Forms
+7) ASP.NET Core
+Description: cross platform OS: Windows, Linux, macOS
