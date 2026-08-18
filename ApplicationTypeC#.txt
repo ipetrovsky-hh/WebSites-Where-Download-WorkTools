@@ -1,6 +1,6 @@
 Типы десктопных приложений на C#
 1) RAZOR PAGES C#
-2) WIN FORMS
+2) WIN FORMS полное название Windows Forms
 3) BLAZOR PAGES C#
 4) ASP.NET MVC C#
 5) WPF PAGES C#
